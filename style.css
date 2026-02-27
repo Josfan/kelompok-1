@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.blue{
+    background-color: #034EA1;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px 0 200px;
+    padding: 20px 0 20px 0;
+}
+.kanan{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.kelompok{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.bahasa{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.kuning{
+    background-color: #F8A519;
+    padding: 10px 20px 10px 20px;
+}
+.bawah{
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    justify-content: center;
+}
+.mengapa{
+    background-color: #034EA1;
+    padding: 80px 70px 80px 70px;
+    margin-top: -10px;
+}
+h2{
+    text-align: center;
+    margin: 0;
+    font-size: 35px;
+}
+.akreditas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    margin-top: 100px;
+}
+.akreditas1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    margin-top: 50px;
+    background-color: #ececec;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.tombol{
+    text-align: right;
+}
+.akre{
+    font-size: 40px;
+    color: #034EA1;
+    font-weight: bold;
+}
+.text{
+    color: black;
+    width: 300px;
+    text-align: right;
+}
+.text1{
+    color: black;
+    width: 600px;
+    text-align: right;
+}
+.text2{
+    font-size: 40px;
+    font-weight: bold;
+    color:#034EA1;
+}
+.text3{
+     font-size: 35px;
+    font-weight: bold;
+    color:#F8A519;
+}
+button{
+    background-color: #0088CC;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 15px 20px 15px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    align-items: right;
+
+}
+.gambar1{
+    border: none;
+    border-radius: 25px;
+}
+.berita{
+    background-color:#F8A519;
+    padding: 80px 70px 80px 70px;
+    margin-top: -10px;
+}
+
